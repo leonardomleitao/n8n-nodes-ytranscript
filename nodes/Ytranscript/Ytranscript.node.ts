@@ -26,7 +26,7 @@ export class ExampleNode implements INodeType {
 				type: 'string',
 				default: '',
 				placeholder: 'https://www.youtube.com/watch?v=VIDEO_ID',
-				description: 'The URL of the YouTube video to get the transcript from.',
+				description: 'The URL of the YouTube video to get the transcript from',
 			},
 		],
 	};
